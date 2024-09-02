@@ -1,0 +1,85 @@
+Basic Concepts
+widgetImg
+Lesson
+Getting Started with C
+widgetImg
+Lesson
+Statements
+widgetImg
+Lesson
+Program Structure
+widgetImg
+Lesson
+Output Formatting
+widgetImg
+Lesson
+Variables
+widgetImg
+Lesson
+Data Types
+widgetImg
+Lesson
+Doing Math
+widgetImg
+Lesson
+Comments
+widgetImg
+Quiz
+Module Quiz
+Conditionals and Loops
+widgetImg
+Lesson
+Taking Input
+widgetImg
+Lesson
+Conditionals
+widgetImg
+Lesson
+The switch Statement
+widgetImg
+Lesson
+Multiple Conditions
+widgetImg
+Lesson
+The while Loop
+widgetImg
+Lesson
+The for Loop
+widgetImg
+Quiz
+Module Quiz
+Arrays & Strings
+widgetImg
+Lesson
+Arrays
+widgetImg
+Lesson
+Looping over Arrays
+widgetImg
+Lesson
+Strings
+widgetImg
+Lesson
+Taking String Input
+widgetImg
+Quiz
+Module Quiz
+Functions & Pointers
+widgetImg
+Lesson
+Functions
+widgetImg
+Lesson
+Function Parameters
+widgetImg
+Lesson
+Returning From Functions
+widgetImg
+Lesson
+Pointers
+widgetImg
+Lesson
+Using Pointers
+widgetImg
+Quiz
+Module Quiz
