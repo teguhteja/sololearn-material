@@ -1,0 +1,46 @@
+Arrays & Pointers
+widgetImg
+Lesson
+Arrays
+XP
++10
+widgetImg
+Practice
+Social Media
+XP
++5
+widgetImg
+Lesson
+Looping Over Arrays
+XP
++10
+widgetImg
+Practice
+Fluffy Pancakes
+XP
++5
+widgetImg
+Lesson
+Multidimensional Arrays
+XP
++10
+widgetImg
+Practice
+Movie Theater
+XP
++5
+widgetImg
+Lesson
+Pointers
+XP
++10
+widgetImg
+Lesson
+Dynamic Memory
+XP
++10
+widgetImg
+Quiz
+Module 3 Quiz
+XP
++10

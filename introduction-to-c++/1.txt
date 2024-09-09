@@ -1,0 +1,73 @@
+Lesson
+Getting started with C++
+XP
++10
+Learn
+widgetImg
+Lesson
+Statements
+XP
++10
+widgetImg
+Practice
+Knowledge is power
+XP
++5
+widgetImg
+Lesson
+Program Structure
+XP
++10
+widgetImg
+Practice
+That's the Price
+XP
++5
+widgetImg
+Lesson
+Variables
+XP
++10
+widgetImg
+Practice
+Drawing a Snowflake
+XP
++5
+widgetImg
+Lesson
+Data Types
+XP
++10
+widgetImg
+Practice
+Lesson Completed!
+XP
++5
+widgetImg
+Lesson
+Doing Math
+XP
++10
+widgetImg
+Practice
+Soccer Team
+XP
++5
+widgetImg
+Lesson
+More on Variables
+XP
++10
+widgetImg
+Lesson
+Comments
+XP
++10
+widgetImg
+Practice
+Everyone can code!
+XP
++5
+widgetImg
+Quiz
+Module 1 Quiz

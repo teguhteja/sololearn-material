@@ -1,0 +1,64 @@
+Conditionals and Loops
+widgetImg
+Lesson
+Taking Input
+XP
++10
+widgetImg
+Practice
+Country Cards
+XP
++5
+widgetImg
+Lesson
+Conditionals
+XP
++10
+widgetImg
+Practice
+Remember your Password!
+XP
++5
+widgetImg
+Lesson
+The switch Statement
+XP
++10
+widgetImg
+Practice
+Call Center Bot
+XP
++5
+widgetImg
+Lesson
+Multiple Conditions
+XP
++10
+widgetImg
+Practice
+Explore Countries
+XP
++5
+widgetImg
+Lesson
+while Loops
+XP
++10
+widgetImg
+Practice
+Even Numbers
+XP
++5
+widgetImg
+Lesson
+for Loops
+XP
++10
+widgetImg
+Practice
+Color Combinations
+XP
++5
+widgetImg
+Quiz
+Module 2 Quiz
