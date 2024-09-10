@@ -1,0 +1,201 @@
+Classes and Objects
+widgetImg
+Lesson
+What is an Object
+XP
++10
+Learn
+widgetImg
+Lesson
+What is a Class
+XP
++10
+widgetImg
+Lesson
+Example of a Class
+XP
++10
+widgetImg
+Lesson
+Abstraction
+XP
++10
+widgetImg
+Lesson
+Encapsulation
+XP
++10
+widgetImg
+Lesson
+Example of Encapsulation
+XP
++10
+widgetImg
+Lesson
+Constructors
+XP
++10
+widgetImg
+Quiz
+C++ 2 Module 1 Quiz
+XP
++10
+widgetImg
+Code Project
+Queue Management Part 1
+XP
++15
+Too easy?
+
+Jump here
+More On Classes
+widgetImg
+Lesson
+Separate Files for Classes
+XP
++10
+widgetImg
+Lesson
+Destructors
+XP
++10
+widgetImg
+Lesson
+Selection Operator
+XP
++10
+widgetImg
+Lesson
+Constant Objects
+XP
++10
+widgetImg
+Lesson
+Member Initializers
+XP
++10
+widgetImg
+Lesson
+Composition, Part 1
+XP
++10
+widgetImg
+Lesson
+Composition, Part 2
+XP
++10
+widgetImg
+Lesson
+The Friend Keyword
+XP
++10
+widgetImg
+Lesson
+The This Keyword
+XP
++10
+widgetImg
+Lesson
+Operator Overloading
+XP
++10
+widgetImg
+Lesson
+C++ 2 Module 2 Quiz
+XP
++10
+widgetImg
+Code Project
+Queue Management Part 2
+XP
++15
+Inheritance & Polymorphism
+widgetImg
+Lesson
+Inheritance
+XP
++10
+widgetImg
+Lesson
+Protected Members
+XP
++10
+widgetImg
+Lesson
+Derived Class Constructor & Destructor
+XP
++10
+widgetImg
+Lesson
+Polymorphism
+XP
++10
+widgetImg
+Lesson
+Virtual Functions
+XP
++10
+widgetImg
+Lesson
+Abstract Classes
+XP
++10
+widgetImg
+Quiz
+C++ 2 Module 3 Quiz
+XP
++10
+widgetImg
+Code Project
+Queue Management Part 3
+XP
++15
+Templates, Exceptions, and Files
+widgetImg
+Lesson
+Function Templates
+XP
++10
+widgetImg
+Lesson
+Function Templates with Multiple Parameters
+XP
++10
+widgetImg
+Lesson
+Class Templates
+XP
++10
+widgetImg
+Lesson
+Template Specialization
+XP
++10
+widgetImg
+Lesson
+Exceptions
+XP
++10
+widgetImg
+Lesson
+More on Exceptions
+XP
++10
+widgetImg
+Lesson
+Working with Files
+XP
++10
+widgetImg
+Lesson
+More on Files
+XP
++10
+widgetImg
+Quiz
+C++ 2 Module 4 Quiz
+XP
++10
+widgetImg
+Code Project
+Queue Management Part 4
