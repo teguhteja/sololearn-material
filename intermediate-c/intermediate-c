@@ -1,0 +1,27 @@
+C Intermediate
+Go deeper into C with this course. This tutorial cover more advanced concepts including struts, dynamic memory allocation, interfacing with files and handling exceptions.
+
+1. Structures, Unions, Pointers
+Pointers
+Working With pointers 
+Structures
+Working With Structures
+Unions
+Working With Unions
+
+2. Memory Management
+Working With Memory
+The malloc Function
+calloc and realloc
+Dynamic Strings & Arrays
+
+3. Files & Error Handling
+Working With Files
+Binary File I/O
+Error Handling
+Using Error Codes
+
+4. The Preprocessor
+Preprocessor Directives
+Conditional Compilation Directives
+Preprocessor Operators
