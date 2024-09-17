@@ -1,41 +1,7 @@
-Functions
-widgetImg
-Lesson
-Functions
-XP
-+10
-widgetImg
-Practice
-Chat Bot
-XP
-+5
-widgetImg
-Lesson
-Function Parameters
-XP
-+10
-widgetImg
-Practice
-Game Machine
-XP
-+5
-widgetImg
-Lesson
-Returning From Functions
-XP
-+10
-widgetImg
-Practice
-Time to Dance!
-XP
-+5
-widgetImg
-Lesson
-Overloading Functions
-XP
-+10
-widgetImg
-Quiz
-Module 4 Quiz
-XP
-+10
+4.Pointers.md
+5.Dynamic Memory.md
+
+1.Functions.md
+2.Function Parameters.md
+3.Returning From Functions.md
+4.Overloading Functions.md
