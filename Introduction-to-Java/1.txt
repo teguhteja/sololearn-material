@@ -1,0 +1,133 @@
+Basic Concepts
+widgetImg
+Lesson
+Getting started with Java
+widgetImg
+Lesson
+Multiple Statements
+widgetImg
+Practice
+Video Game Score
+widgetImg
+Lesson
+Program Structure
+widgetImg
+Practice
+Fix the errors
+widgetImg
+Lesson
+Variables
+widgetImg
+Practice
+Storing a Slogan
+widgetImg
+Lesson
+Variable Types
+widgetImg
+Practice
+University Information System
+widgetImg
+Lesson
+Doing Math
+widgetImg
+Practice
+Bar Inventory
+widgetImg
+Lesson
+Java Comments
+widgetImg
+Practice
+Working on someone else's code
+widgetImg
+Quiz
+Module 1 Quiz
+Control Flow
+widgetImg
+Lesson
+Taking User Input
+widgetImg
+Practice
+Drawing Class
+widgetImg
+Lesson
+Conditionals
+widgetImg
+Practice
+In The Car Salon
+widgetImg
+Lesson
+The switch Statement
+widgetImg
+Practice
+The emotion-aware robot
+widgetImg
+Lesson
+Multiple Conditions
+widgetImg
+Practice
+Explore the countries
+widgetImg
+Lesson
+While Loops
+widgetImg
+Practice
+While Loops
+widgetImg
+Lesson
+For Loops
+widgetImg
+Practice
+System for bank clients
+widgetImg
+Quiz
+Java for Beginners Module 2 Quiz
+Arrays
+widgetImg
+Lesson
+Arrays
+widgetImg
+Practice
+Fix The Calendar
+widgetImg
+Lesson
+Looping Over Arrays
+widgetImg
+Practice
+System security
+widgetImg
+Lesson
+Multidimensional Arrays
+widgetImg
+Practice
+Combine to get "Java"
+widgetImg
+Quiz
+Java for Beginners Module 3 Quiz
+Methods
+widgetImg
+Lesson
+Methods
+widgetImg
+Practice
+Wishing everyone a pleasant day
+XP
++5
+widgetImg
+Lesson
+Method Parameters
+widgetImg
+Practice
+Area Of A Rectangle
+XP
++5
+widgetImg
+Lesson
+Returning From Methods
+widgetImg
+Practice
+Return the result
+XP
++5
+widgetImg
+Quiz
+Java for Beginners Module 4 Quiz

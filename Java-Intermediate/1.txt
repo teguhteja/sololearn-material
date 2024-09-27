@@ -1,0 +1,209 @@
+Java Intermediate
+
+Java Intermediate
+Time to get serious and really see what Java (and you!) can do! In this course you’ll learn some concepts related to Object-Oriented Programming (OOP), Collections, and working with files. You’ll be a pro in no time!
+Classes and Objects
+widgetImg
+Lesson
+Object-Oriented Programming
+XP
++10
+Learn
+widgetImg
+Lesson
+Creating Classes & Objects
+XP
++10
+widgetImg
+Lesson
+Class Attributes
+XP
++10
+widgetImg
+Lesson
+Access Modifiers
+XP
++10
+widgetImg
+Lesson
+Getters and Setters
+XP
++10
+widgetImg
+Lesson
+Constructors
+XP
++10
+widgetImg
+Lesson
+Value & Reference Types
+XP
++10
+widgetImg
+Lesson
+The Math Class
+XP
++10
+widgetImg
+Lesson
+Static
+XP
++10
+widgetImg
+Lesson
+Final
+XP
++10
+widgetImg
+Lesson
+Packages
+XP
++10
+widgetImg
+Quiz
+Java 2 Module 1 Quiz
+XP
++10
+Too easy?
+
+Jump here
+More on Classes
+widgetImg
+Lesson
+Encapsulation
+XP
++10
+widgetImg
+Lesson
+Inheritance
+XP
++10
+widgetImg
+Lesson
+Polymorphism
+XP
++10
+widgetImg
+Lesson
+Overriding & Overloading
+XP
++10
+widgetImg
+Lesson
+Abstract Classes
+XP
++10
+widgetImg
+Lesson
+Interfaces
+XP
++10
+widgetImg
+Lesson
+Casting
+XP
++10
+widgetImg
+Lesson
+Downcasting
+XP
++10
+widgetImg
+Lesson
+Anonymous Classes
+XP
++10
+widgetImg
+Lesson
+Inner Classes
+XP
++10
+widgetImg
+Lesson
+The equals() method
+XP
++10
+widgetImg
+Lesson
+Enums
+XP
++10
+widgetImg
+Lesson
+Using the Java API
+XP
++10
+widgetImg
+Quiz
+Java 2 Module 2 Quiz
+XP
++10
+Exceptions, Lists, Threads & Files
+widgetImg
+Lesson
+Exception Handling
+XP
++10
+widgetImg
+Lesson
+Multiple Exceptions
+XP
++10
+widgetImg
+Lesson
+Threads
+XP
++10
+widgetImg
+Lesson
+Runtime vs. Checked Exceptions
+XP
++10
+widgetImg
+Lesson
+ArrayList
+XP
++10
+widgetImg
+Lesson
+LinkedLists
+XP
++10
+widgetImg
+Lesson
+HashMap
+XP
++10
+widgetImg
+Lesson
+Sets
+XP
++10
+widgetImg
+Lesson
+Sorting Lists
+XP
++10
+widgetImg
+Lesson
+Iterators
+XP
++10
+widgetImg
+Lesson
+Working with Files
+XP
++10
+widgetImg
+Lesson
+Reading a File
+XP
++10
+widgetImg
+Lesson
+Creating & Writing Files
+XP
++10
+widgetImg
+Quiz
+Java 2 Module 3 Quiz
