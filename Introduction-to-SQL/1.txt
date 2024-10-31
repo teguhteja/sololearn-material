@@ -1,0 +1,156 @@
+Getting Started with SQL
+widgetImg
+Lesson
+Working with Data
+widgetImg
+Lesson
+Running SQL Queries
+widgetImg
+Lesson
+Relational Databases
+widgetImg
+Booster
+AI-generated practice
+widgetImg
+Lesson
+Debugging
+widgetImg
+Practice
+Box Office
+widgetImg
+Practice
+Store Inventory
+widgetImg
+Quiz
+Module 1 Quiz
+Going Deeper with SQL
+widgetImg
+Lesson
+Standards & Best Practices
+widgetImg
+Booster
+AI-generated practice
+widgetImg
+Lesson
+Sorting Data
+widgetImg
+Practice
+Employee Salary
+widgetImg
+Practice
+Student Grade
+widgetImg
+Lesson
+Limiting Data
+widgetImg
+Booster
+AI-generated practice
+widgetImg
+Practice
+Menu
+widgetImg
+Practice
+Giveaway!
+widgetImg
+Lesson
+Data Types
+widgetImg
+Practice
+Tennis Tournament
+widgetImg
+Lesson
+Filtering Data
+widgetImg
+Practice
+Online Bookstore
+widgetImg
+Practice
+Movie Ratings
+widgetImg
+Quiz
+Module 2 Quiz
+Query Techniques
+widgetImg
+Lesson
+Pattern Matching
+widgetImg
+Booster
+AI-generated practice
+widgetImg
+Practice
+Chocolate!
+widgetImg
+Lesson
+Advanced Pattern Matching
+widgetImg
+Practice
+Music and Love!
+widgetImg
+Lesson
+SQL Conditions
+widgetImg
+Practice
+Select your Car
+widgetImg
+Practice
+Grocery Store
+widgetImg
+Lesson
+Data Aggregation
+widgetImg
+Booster
+AI-generated practice
+widgetImg
+Lesson
+Mixing Things Up
+widgetImg
+Quiz
+Module 3 Quiz
+Data Analysis
+widgetImg
+Lesson
+Analyzing Data
+widgetImg
+Lesson
+Grouping
+widgetImg
+Practice
+Social Media Posts
+widgetImg
+Lesson
+Grouping and Filtering
+widgetImg
+Practice
+Sports League
+XP
++5
+widgetImg
+Booster
+AI-Generated Practice
+XP
++20
+widgetImg
+Lesson
+Cleaning Data
+widgetImg
+Practice
+Teacher Data
+widgetImg
+Lesson
+Fixing Data Types
+widgetImg
+Booster
+AI-Generated Practice
+XP
++20
+widgetImg
+Lesson
+Making Sense of Data
+widgetImg
+Practice
+Theater Management
+XP
++5
+widgetImg
+Quiz
+Module 4 Quiz
